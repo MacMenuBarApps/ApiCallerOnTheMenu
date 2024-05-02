@@ -7,7 +7,7 @@ struct MenuBarView: App {
     let pasteboard = NSPasteboard.general
     @State private var urlText: String = "https://httpbin.org/get"
     @State private var responseText: String = "response will be here"
-    let urlRepo = URL(string: "https://github.com/liebki/MenuBarApiCaller")!
+    let urlRepo = URL(string: "https://github.com/liebki/ApiCallerOnTheMenu")!
     
     var body: some Scene {
         
