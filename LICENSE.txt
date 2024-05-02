@@ -1,0 +1,13 @@
+{
+  "args": {}, 
+  "headers": {
+    "Accept": "*/*", 
+    "Accept-Encoding": "gzip, deflate, br", 
+    "Accept-Language": "en-GB,en;q=0.9", 
+    "Host": "httpbin.org", 
+    "User-Agent": "ApiCallerOnTheMenu/1 CFNetwork/1494.0.7 Darwin/23.4.0", 
+    "X-Amzn-Trace-Id": "Root=1-66338edf-2e307c262fba15163f07b07f"
+  }, 
+  "origin": "185.104.138.51", 
+  "url": "https://httpbin.org/get"
+}
